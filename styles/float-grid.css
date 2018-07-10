@@ -33,15 +33,15 @@
 		width: 25%;
 	}
 
-	.col-3 {
+	.col-4 {
 		width: 33.33%;
 	}
 
-	.col-3 {
+	.col-6 {
 		width: 50%;
 	} 
 
-	.col-3 {
+	.col-12 {
 		width: 100%;
 	}
 }
